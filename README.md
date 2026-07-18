@@ -61,8 +61,8 @@ The project was developed using **Electric VLSI** and includes the complete circ
 │   ├── Project_Paper.pdf
 │   └── Presentation.pdf
 
-├── README.md
-└── LICENSE
+└──README.md
+
 ```
 
 ---
