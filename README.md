@@ -16,14 +16,16 @@ The project was developed using **Electric VLSI** and includes the complete circ
 
 ## Schematic
 
-<img width="1543" height="882" alt="image" src="https://github.com/user-attachments/assets/3cf1fb44-11b2-4ff7-9aa6-b056976b2e07" />
+<img width="1421" height="867" alt="image" src="https://github.com/user-attachments/assets/3b769ce6-be53-4668-a269-26f8cf14d221" />
+
 
 
 ---
 
 ## Layout
 
-<img width="1347" height="878" alt="image" src="https://github.com/user-attachments/assets/0649e11c-ac37-46b1-8227-acc768f61a8b" />
+<img width="1342" height="873" alt="image" src="https://github.com/user-attachments/assets/ec7a7a59-3cd4-47b9-956b-92b610ad4015" />
+
 
 ---
 
